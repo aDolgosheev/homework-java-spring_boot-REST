@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.netology</groupId>
-    <artifactId>JavaClo_2_Spring_Boot_REST</artifactId>
+    <artifactId>homework-java-spring_boot-REST</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>JavaClo_2_Spring_Boot_REST</name>
-    <description>JavaClo_2_Spring_Boot_REST</description>
+    <name>homework-java-spring_boot-REST</name>
+    <description>homework-java-spring_boot-REST</description>
     <properties>
         <java.version>17</java.version>
     </properties>

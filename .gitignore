@@ -16,6 +16,7 @@ build/
 *.iws
 *.iml
 *.ipr
+target/
 out/
 
 ### Android Studio ###
