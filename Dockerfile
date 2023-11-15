@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:17-oracle
 VOLUME /tmp
 EXPOSE 9999
 ADD /target/homework-java-spring_boot-REST-0.0.1-SNAPSHOT.jar app.jar
